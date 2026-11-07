@@ -1,4 +1,4 @@
-# Gradient Fricativization 
+# Gradient Palatal Fricativization After Coda /s/ Reduction in Western Andalusian Spanish 
 ### Hispanic Linguistics Symposium 
 ### November, 2026 - Boulder, Colorado
 
